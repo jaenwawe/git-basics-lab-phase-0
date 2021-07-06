@@ -1,3 +1,5 @@
+NOTE: If you forget to include -m when committing, you may find you've opened vi, the built in terminal text editor. To escape out of this editor, press the 'esc' key once, then type :q! to close the editor and return to the normal terminal. (or type :wq to save changes)
+
 # Git Basics Lab
 
 ## Learning Goals
